@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "jm-skills": {
+      "source": {
+        "source": "github",
+        "repo": "jmcniel1/claude-skills"
+      }
+    }
+  },
+  "enabledPlugins": [
+    "jm-skills@jm-skills"
+  ]
+}
