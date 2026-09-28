@@ -7,7 +7,7 @@
       }
     }
   },
-  "enabledPlugins": [
-    "jm-skills@jm-skills"
-  ]
+  "enabledPlugins": {
+    "jm-skills@jm-skills": true
+  }
 }
